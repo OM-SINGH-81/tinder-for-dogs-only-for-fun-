@@ -9,8 +9,8 @@ TinDog is a playful and responsive web app inspired by Tinder — but for dogs! 
 
 ## 📸 Preview
 
-![Dog Hero](./dog-img.jpg)
-<img src="./iphone.png" width="200" alt="TinDog App Preview"/>
+![Dog Hero](./images/dog-img.jpg)
+<img src="./images/iphone.png" width="200" alt="TinDog App Preview"/>
 
 ## ✨ Features
 
@@ -19,8 +19,8 @@ TinDog is a playful and responsive web app inspired by Tinder — but for dogs! 
 - 💬 Testimonials with cute dog photos
 - 💸 Three-tier pricing plan for dog matchmaking
 - 📰 Featured on:  
-  <img src="./mashable.png" height="25" alt="Mashable Logo"/>  
-  <img src="./tnw.png" height="25" alt="TNW Logo"/>
+  <img src="./images/mashable.png" height="25" alt="Mashable Logo"/>  
+  <img src="./images/tnw.png" height="25" alt="TNW Logo"/>
 
 ## 📂 Tech Stack
 
