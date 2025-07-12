@@ -5,7 +5,7 @@ a basic dog tinder website only using HTML , CSS and bootstrap for practicing an
 TinDog is a playful and responsive web app inspired by Tinder — but for dogs! It’s built using HTML, CSS, and Bootstrap. From sleek pricing cards to testimonials, TinDog brings charm and humor to every pup's profile.
 
 ## 🔗 Live Demo
-👉 [Visit Live Site](https://om-singh-81.github.io/DICEE-THE-DECIDER/)
+👉 [Visit Live Site](https://om-singh-81.github.io/tinder-for-dogs-only-for-fun-/)
 
 ## 📸 Preview
 
