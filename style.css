@@ -1,0 +1,48 @@
+.gradient-background, #footer {
+  background: linear-gradient(300deg, rgb(99, 24, 24), #ed0616, rgb(88, 237, 88));
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+  width: 100%;
+  height: 100%;
+}
+/* Gradient background animation */
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img {
+  height: 100px;
+  border-radius: 50%;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around; 
+  flex-wrap: wrap;
+  padding-bottom: 2.5rem;
+}
+.img-fluid{
+  height: 30px;
+}
+.d-block {
+  height: 95vh;
+}
+.d-block.mx-lg-auto {
+  max-width: 100%;
+  height: auto;
+}
